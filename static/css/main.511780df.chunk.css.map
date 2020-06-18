@@ -1,0 +1,1 @@
+{"version":3,"sources":["practice.scss"],"names":[],"mappings":"AAAA,EACI,qBAAA,CAEJ,aACI,gBAAA","file":"main.511780df.chunk.css","sourcesContent":["*{\r\n    box-sizing: border-box;\r\n}\r\n.hareKrishna{\r\n    border: solid red;\r\n}"]}

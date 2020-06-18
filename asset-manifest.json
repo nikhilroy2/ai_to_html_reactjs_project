@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactjs-daily-practice/static/css/main.511780df.chunk.css",
+    "main.js": "/reactjs-daily-practice/static/js/main.355393ee.chunk.js",
+    "main.js.map": "/reactjs-daily-practice/static/js/main.355393ee.chunk.js.map",
+    "runtime-main.js": "/reactjs-daily-practice/static/js/runtime-main.25da185f.js",
+    "runtime-main.js.map": "/reactjs-daily-practice/static/js/runtime-main.25da185f.js.map",
+    "static/js/2.c3dca1d0.chunk.js": "/reactjs-daily-practice/static/js/2.c3dca1d0.chunk.js",
+    "static/js/2.c3dca1d0.chunk.js.map": "/reactjs-daily-practice/static/js/2.c3dca1d0.chunk.js.map",
+    "index.html": "/reactjs-daily-practice/index.html",
+    "precache-manifest.76930028855f692557f89906169b8a07.js": "/reactjs-daily-practice/precache-manifest.76930028855f692557f89906169b8a07.js",
+    "service-worker.js": "/reactjs-daily-practice/service-worker.js",
+    "static/css/main.511780df.chunk.css.map": "/reactjs-daily-practice/static/css/main.511780df.chunk.css.map",
+    "static/js/2.c3dca1d0.chunk.js.LICENSE": "/reactjs-daily-practice/static/js/2.c3dca1d0.chunk.js.LICENSE",
+    "static/media/inner.png": "/reactjs-daily-practice/static/media/inner.0fca016a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25da185f.js",
+    "static/js/2.c3dca1d0.chunk.js",
+    "static/css/main.511780df.chunk.css",
+    "static/js/main.355393ee.chunk.js"
+  ]
+}
